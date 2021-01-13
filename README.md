@@ -5,3 +5,4 @@ It takes place in a fantasy land called T'Lass that was co-created by myself and
 The game is experienced in real-time. Every time the game is started, it will check to see if its last starting date was the same as the current real-world date.
 If the time is different, then the game will assume a new day has begun and the character dialogs will advance accordingly, assuming you have exhausted the previous day's dialog for the character in question.
 The game also has an inventory system, but it had not been expanded upon in this particular demo.
+Ellie, Westra, and Ember were characters created by my fiancee Ally Bartlett and my good friends Jake Williams and Erik Stolz, respectively.
