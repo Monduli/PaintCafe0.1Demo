@@ -1,6 +1,6 @@
 # Paint Cafe
 
-![Screenshot](https://github.com/glendond/Paint_Cafe_0.1_Demo/blob/main/forreadme1.PNG?raw=true)
+![Screenshot](https://github.com/Monduli/Paint_Cafe_0.1_Demo/blob/main/forreadme1.PNG?raw=true)
 
 A visual novel that takes place in a Cafe, eventually extending out to other locations. You can meet characters in the Cafe and they will share their experiences with you.
 It takes place in a fantasy land called T'Lass that was co-created by myself and Erik Stolz. We originally used it for DND 5e sessions, so there are references to some DND gods and classes.
